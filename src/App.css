@@ -1,0 +1,55 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar
+{
+  width: 100vw;
+}
+
+
+.inp
+{
+  margin-left: 600px;
+  
+  
+}
+
+.add_btn{
+  text-align: right;
+}
+
+#edit
+{
+margin:0px 1px 0px 1px ;
+}
+
+.container{
+  overflow: auto;
+}
+
+.hm{
+  color: white;
+  text-decoration: none;
+}
+
+/* details style */
+
+.details{
+  width: 600px;
+  display: flex;
+}
+
+.left_view h3{
+  font-size: 21px;
+}
+
+.left_view p{
+  font-weight: 600;
+}
+
+
+.left_view span{
+  font-weight: 400;
+}
